@@ -1,0 +1,13 @@
+TABLA;PTS;PG;PE;PP;GF;GC;GD
+Bosnia and Herzegovina;6;2;0;1;9;5;4
+Qatar;6;2;0;1;8;5;3
+Canada;4;1;1;1;4;7;-3
+Denmark;1;0;1;2;2;6;-4
+
+LOG TECNICO (LAMBDA);VISITA;LAM_L;LAM_V;G_L;G_V
+Canada;Bosnia and Herzegovina;1.39902;1.26894;0;4
+Canada;Qatar;1.56963;1.95812;3;2
+Canada;Denmark;1.24695;1.64769;1;1
+Bosnia and Herzegovina;Qatar;1.35818;1.86801;2;4
+Bosnia and Herzegovina;Denmark;1.07896;1.57187;3;1
+Qatar;Denmark;1.66496;1.76356;2;0

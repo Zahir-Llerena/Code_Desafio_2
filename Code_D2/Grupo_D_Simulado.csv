@@ -1,0 +1,13 @@
+TABLA;PTS;PG;PE;PP;GF;GC;GD
+Australia;7;2;1;0;5;2;3
+Turkey;4;1;1;1;4;4;0
+Paraguay;3;1;0;2;5;5;0
+United States;3;1;0;2;3;6;-3
+
+LOG TECNICO (LAMBDA);VISITA;LAM_L;LAM_V;G_L;G_V
+United States;Paraguay;1.45317;1.22695;1;3
+United States;Australia;1.51572;1.7428;0;2
+United States;Turkey;1.43688;1.46651;2;1
+Paraguay;Australia;1.17049;1.59398;1;2
+Paraguay;Turkey;1.10961;1.34128;1;2
+Australia;Turkey;1.57612;1.39902;1;1

@@ -1,0 +1,13 @@
+TABLA;PTS;PG;PE;PP;GF;GC;GD
+South Africa;6;2;0;1;5;4;1
+Korea Republic;6;2;0;1;4;3;1
+Mexico;3;1;0;2;3;4;-1
+Czech Republic;3;1;0;2;2;3;-1
+
+LOG TECNICO (LAMBDA);VISITA;LAM_L;LAM_V;G_L;G_V
+Mexico;South Africa;1.35559;1.35866;1;2
+Mexico;Korea Republic;1.55088;1.66259;1;2
+Mexico;Czech Republic;1.45815;1.21055;1;0
+South Africa;Korea Republic;1.44507;1.54566;2;1
+South Africa;Czech Republic;1.35866;1.12541;1;2
+Korea Republic;Czech Republic;1.66259;1.28754;1;0

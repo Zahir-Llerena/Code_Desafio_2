@@ -1,0 +1,13 @@
+TABLA;PTS;PG;PE;PP;GF;GC;GD
+France;7;2;1;0;4;1;3
+Senegal;4;1;1;1;2;2;0
+Cameroon;3;1;0;2;3;4;-1
+Iraq;3;1;0;2;3;5;-2
+
+LOG TECNICO (LAMBDA);VISITA;LAM_L;LAM_V;G_L;G_V
+France;Senegal;1.11665;1.19206;1;1
+France;Iraq;1.84307;0.908908;2;0
+France;Cameroon;1.47342;1.49256;1;0
+Senegal;Iraq;1.53011;0.706837;0;1
+Senegal;Cameroon;1.22323;1.16073;1;0
+Iraq;Cameroon;0.932678;1.91584;2;3

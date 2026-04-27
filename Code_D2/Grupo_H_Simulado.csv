@@ -1,0 +1,13 @@
+TABLA;PTS;PG;PE;PP;GF;GC;GD
+Saudi Arabia;7;2;1;0;5;3;2
+Spain;4;1;1;1;2;1;1
+Cabo Verde;4;1;1;1;4;3;1
+Uruguay;1;0;1;2;3;7;-4
+
+LOG TECNICO (LAMBDA);VISITA;LAM_L;LAM_V;G_L;G_V
+Spain;Cabo Verde;0.846259;1.1258;0;0
+Spain;Saudi Arabia;1.73286;0.908908;0;1
+Spain;Uruguay;1.50246;1.13926;2;0
+Cabo Verde;Saudi Arabia;1.35866;0.535683;1;2
+Cabo Verde;Uruguay;1.17801;0.671443;3;1
+Saudi Arabia;Uruguay;0.951059;1.37489;2;2

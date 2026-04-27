@@ -1,0 +1,13 @@
+TABLA;PTS;PG;PE;PP;GF;GC;GD
+Tunisia;7;2;1;0;2;0;2
+Japan;4;1;1;1;6;4;2
+Sweden;3;1;0;2;4;7;-3
+Netherlands;2;0;2;1;4;5;-1
+
+LOG TECNICO (LAMBDA);VISITA;LAM_L;LAM_V;G_L;G_V
+Netherlands;Japan;1.11665;1.90365;2;2
+Netherlands;Sweden;1.64273;1.15924;2;3
+Netherlands;Tunisia;0;1.05683;0;0
+Japan;Sweden;2.17791;0.901518;4;1
+Japan;Tunisia;0;0.821876;0;1
+Sweden;Tunisia;0;1.20909;0;1

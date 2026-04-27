@@ -1,0 +1,13 @@
+TABLA;PTS;PG;PE;PP;GF;GC;GD
+Colombia;9;3;0;0;5;1;4
+Uzbekistan;4;1;1;1;4;4;0
+Portugal;4;1;1;1;4;5;-1
+DR Congo;0;0;0;3;1;4;-3
+
+LOG TECNICO (LAMBDA);VISITA;LAM_L;LAM_V;G_L;G_V
+Portugal;DR Congo;1.5445;0.88929;1;0
+Portugal;Uzbekistan;1.84307;1.19206;2;2
+Portugal;Colombia;1.20112;1.09856;1;3
+DR Congo;Uzbekistan;1.14148;1.28224;1;2
+DR Congo;Colombia;0.743902;1.18167;0;1
+Uzbekistan;Colombia;0.997169;1.4101;0;1

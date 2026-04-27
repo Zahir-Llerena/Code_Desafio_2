@@ -1,0 +1,13 @@
+TABLA;PTS;PG;PE;PP;GF;GC;GD
+Morocco;9;3;0;0;12;2;10
+Brazil;6;2;0;1;4;4;0
+Haiti;3;1;0;2;3;5;-2
+Scotland;0;0;0;3;0;8;-8
+
+LOG TECNICO (LAMBDA);VISITA;LAM_L;LAM_V;G_L;G_V
+Brazil;Morocco;0.976719;1.61964;0;4
+Brazil;Haiti;1.58884;0.991255;1;0
+Brazil;Scotland;1.51572;1.04959;3;0
+Morocco;Haiti;1.95812;0.736712;4;2
+Morocco;Scotland;1.86801;0.780069;4;0
+Haiti;Scotland;1.14326;1.26894;1;0
